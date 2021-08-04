@@ -1,0 +1,19 @@
+{
+  "name": "html-aula-pratica-03",
+  "version": "1.0.0",
+  "description": "Repositório criado para as aulas de HTML/Frontend do START LATAM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilbertomoj/html-aula-pratica-03.git"
+  },
+  "author": "Gilberto Medeiros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilbertomoj/html-aula-pratica-03/issues"
+  },
+  "homepage": "https://github.com/gilbertomoj/html-aula-pratica-03#readme"
+}
